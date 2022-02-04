@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarth Gupta</h1>
-<h3 align="center">An aspiring developer</h3>
+<h3 align="center">I just love tech!!</h3>
 
 - 🌱 I’m currently learning **my DSA skills and front end web dev**
 
