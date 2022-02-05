@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Gupta</h1>
 <h3 align="center">I just love tech!!</h3>
 
-- 🌱 I’m currently learning **my DSA skills and front end web dev**
+- 🌱 I’m currently focusing on **my DSA skills and Front end web dev**
 
 - 📫 How to reach me **https://twitter.com/sxmxrth2002**
 
