@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samarth Gupta</h1>
-<h3 align="center">I just love tech!!</h3>
+<h3 align="center">Lorem Ipsum</h3>
 
 - 🌱 I’m currently focusing on **my DSA skills and Front end web dev**
 
 - 📫 How to reach me **https://twitter.com/sxmxrth2002**
 
-- ⚡ Fun fact **I love coffee**
+- ⚡ Fun fact **I love coffee and linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
