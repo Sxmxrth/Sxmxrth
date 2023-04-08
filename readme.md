@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Gupta</h1>
 <h3 align="center">An aspiring Web Developer</h3>
 
-- 🌱 I’m currently focusing **on my DSA skills and full stack web development**
+- 🌱 I’m currently focusing **on Full stack Web dev and App dev**
 
 - 📫 How to reach me **https://twitter.com/sxmxrth2002**
 
